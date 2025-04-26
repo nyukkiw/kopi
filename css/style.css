@@ -77,11 +77,11 @@
   }
 
   .navbar .navbar-nav a::after{
-    content: '';
+  content: '';
    display: block;
    padding-bottom: 0.5rem;
    border-bottom: 0.1rem solid var(--primary);
-    transform: scaleX(0);
+  transform: scaleX(0);
    
   }
 
